@@ -1,2 +1,5 @@
 # Caclul_Exponentielle
-Calcul de l'exponentielle en C !
+
+## Ce programme calcule et affiche l'exponentielle.
+
+## By Lampadaire !
